@@ -1,0 +1,12 @@
+
+
+.select_data{
+    display: flex;
+    flex-direction: row;
+gap: 2rem;
+}
+
+.above_or_below{
+    font-size: 1.2rem;
+    font-weight: 600;
+}
